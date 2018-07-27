@@ -14,6 +14,7 @@ public class Main {
 		model.preformFly();
 		model.setFlyBehavior(new FlyRocketPowered());
 		model.preformFly();
+		//
 	}
 	
 }
